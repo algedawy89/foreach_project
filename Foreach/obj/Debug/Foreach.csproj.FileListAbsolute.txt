@@ -1,0 +1,44 @@
+C:\Users\jeddawi\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\jeddawi\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\jeddawi\source\repos\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\jeddawi\source\repos\Foreach\Foreach\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.CopyComplete
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.pdb
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\jeddawi\source\repos\Foreach\Foreach\obj\Debug\Foreach.ParseTreeForm.resources
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\bin\Debug\Grammar.exe.config
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\bin\Debug\Grammar.exe
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\bin\Debug\Grammar.pdb
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Graammar.Form1.resources
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Grammar.ParseTreeForm.resources
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Grammar.Properties.Resources.resources
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Foreach.csproj.CopyComplete
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Grammar.exe
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Grammar.pdb
+C:\Users\jeddawi\source\repos\Foreach - Copy\Foreach\obj\Debug\Graammar.showmsg.resources
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\bin\Debug\Grammar.exe.config
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\bin\Debug\Grammar.exe
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\bin\Debug\Grammar.pdb
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Graammar.Form1.resources
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Grammar.ParseTreeForm.resources
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Grammar.Properties.Resources.resources
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Graammar.showmsg.resources
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Foreach.csproj.CopyComplete
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Grammar.exe
+C:\Users\jeddawi\source\repos\foreach تكليف يعتمد\Foreach\obj\Debug\Grammar.pdb
