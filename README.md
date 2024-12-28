@@ -1,4 +1,4 @@
-# Custom C++ Syntax Examples
+# تكليف مقرر مترجمات عملي 
 
 ### Main Function Syntax
 Main functions can either be `int main()` or `int void()`. Both start with a block.
