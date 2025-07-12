@@ -23,7 +23,7 @@ Array initialization, access, and iteration.
 
 ```cpp
 int main() {
-    int x[] = {1, 2, 3, 4};
+    int x[] = [1, 2, 3, 4];
 
     // Accessing array elements
     print(x[0]);
